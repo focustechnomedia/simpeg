@@ -356,7 +356,7 @@
                             <li class="list">
                                 <div class="profile"><img src="images/faces/face6.jpg" alt="image"><span class="online"></span></div>
                                 <div class="info">
-                                    <p>Sarah Graves</p>
+                                    <p>Sarah Graves test</p>
                                     <p>Available</p>
                                 </div>
                                 <small class="text-muted my-auto">47 min</small>
