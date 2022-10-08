@@ -384,7 +384,7 @@
                         </a>
                         <div class="collapse" id="ui-basic">
                             <ul class="nav flex-column sub-menu">
-                                <li class="nav-item"> <a class="nav-link" href="assets/pages/ui-features/buttons.html">Pegawai</a></li>
+                                <li class="nav-item"> <a class="nav-link" href="/pegawai">Pegawai</a></li>
                                 <li class="nav-item"> <a class="nav-link" href="assets/pages/ui-features/dropdowns.html">Dropdowns</a></li>
                                 <li class="nav-item"> <a class="nav-link" href="assets/pages/ui-features/typography.html">Typography</a></li>
                             </ul>
